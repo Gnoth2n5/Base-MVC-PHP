@@ -1,0 +1,10 @@
+/public/uploads/*
+/public/export/*
+/storage/cache/*
+/vendor/*
+.env
+
+!/public/uploads/.gitkeep
+!/public/export/.gitkeep
+!/storage/cache/.gitkeep
+!/vendor/.gitkeep
