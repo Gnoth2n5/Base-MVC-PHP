@@ -1,5 +1,5 @@
 {
-    "name": "vendor/php-mvc",
+    "name": "restia/php-mvc",
     "description": "Base MVC",
     "type": "project",
     "scripts": {
